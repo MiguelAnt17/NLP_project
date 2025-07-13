@@ -61,3 +61,17 @@ Key Activities:
  
 Files:
 - Code: Final_Code.ipynb
+
+**Final Conclusion**
+This project provided a comprehensive comparison between traditional Machine Learning models and modern Large Language Models for sentiment analysis on a real-world dataset.
+
+- Traditional ML models (like SVM), when combined with simple text representations like TF-IDF, proved to be highly efficient and effective for less complex tasks.
+- LLMs (like Llama and Mistral) demonstrated superior capabilities in understanding semantic nuances and context, excelling in Zero-Shot and Few-Shot scenarios. This highlights their flexibility and power for tasks requiring deep contextual understanding without the need for extensive training data.
+
+The choice between these approaches ultimately depends on the specific task, available computational resources, and the need for semantic generalization.
+
+**How to Run the Code**
+1- Clone the repo: git clone https://github.com/MiguelAnt17/NLP_project
+2- Navigate to the desired project folder 
+3- Install the required libraries listed in the corresponding Jupyter Notebook.
+4- Launch Jupyter Notebook and open the .ipynb file to explore the code and results.
